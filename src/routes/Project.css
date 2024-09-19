@@ -1,0 +1,85 @@
+.projectContainer{
+  width: 800px;
+  margin: 0 auto 300px auto;
+}
+
+.projectWrapper{
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+  margin-top: 160px;
+
+.projectWrapper ul {
+  padding: 0;
+  margin: 0;
+}
+
+.projectWrapper > section {
+  background-color: lime;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-bottom: 200px;
+}
+      
+.projectTitle h1 {
+  text-transform: capitalize;
+  text-align: left;
+  margin: 0;
+  padding-bottom: 0;
+}
+
+a.backButton {
+  background-color: rgb(236, 239, 243);
+  border-radius: 8px;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 13px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: capitalize;
+  color: rgb(89, 114, 157);
+  font-size: 16px;
+  box-shadow: 1px 0px 10px rgba(0,0,0,0.15);
+  border: 1px solid rgba(0,0,0,0.1);
+  min-width: 80px;
+}
+    
+.projectWrapper section p {
+  text-align: left;
+  margin: 40px 0;
+  line-height: 28px;
+}
+
+.projectWrapper section img {
+  border: 1px solid rgba(0,0,0,.2);
+  margin-bottom: 2em;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,.2);
+  width: 100%;
+}
+
+.projectTitle {
+  display: flex;
+  line-height: 3;
+  padding: 20px 0 0 0;
+}
+
+.akbank img {
+  width: 100%;
+}
+
+.backButtonWrapper{
+  margin: 20px 0 35px 0;
+}
+
+.projectImage img {
+  width: 800px;
+}
+
+.akche img {
+  width: 48%;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,1 @@
+Lazy 8 Studios (Rob Jagnow and Brendan Mauro) gave me the chance to work on their upcoming web based game. I was the front-end developer of the web interface. The project is Nuovo Nominee 2014 for the Independent Games Festival.

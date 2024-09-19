@@ -1,0 +1,47 @@
+.projectsList{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  min-width: 100%;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.projectsList li {
+  width: 144px;
+  height: 144px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 8px 0px 22px rgba(0,0,0,0.05);
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+.projectsList li a {
+  min-width: 100%;
+  min-height: 100%;
+  background-color: rgb(236, 239, 243);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 25px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: capitalize;
+  color: rgb(19, 117, 221);
+  font-size: 18px;
+}
+
+.projectsList li a:hover{
+  background-color: rgb(203, 209, 218, .6);
+  transition: all .2s ease-in;
+}
+
+.projectsList li a:visited{
+  color: rgb(124, 128, 135);
+}

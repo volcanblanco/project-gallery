@@ -1,0 +1,22 @@
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  margin-top: 0px;
+  flex-direction: column;
+}
+
+.main h1{
+  text-align: left;
+}
+
+.main section{
+  width: 800px;
+}
+
+.main p {
+  width: 85%;
+  margin-bottom: 2em;
+}

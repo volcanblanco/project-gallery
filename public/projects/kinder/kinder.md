@@ -1,0 +1,1 @@
+Kinder brand reached McCann Istanbul Agency for a facebook app to promote the ®Kinder Surprise product. We prepared an facebook app based on video to capture the funny moments of the children who refuses to give their Kinder Surprises back. I was the lead front-end developer of the project.

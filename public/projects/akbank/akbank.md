@@ -1,0 +1,1 @@
+Akbank reached McCann Istanbul Agency to promote Akbank Jazz Festival with a robot who listens Istanbul's sound and draws pictures on tshirts. Attendees won robojazz tshirts. This campaingn was a facebook app and went offline now. I was the lead front-end developer,

@@ -1,0 +1,1 @@
+Loreal's skin perfection campaign promotion site. Visitors watched the google hangouts and dermatologists recommendations on how to use the skin perfecion products. Also visitors can analyze their skin with an app to measure pores, texture and tone. Project is coded responsive and I was the lead front-end developer.
